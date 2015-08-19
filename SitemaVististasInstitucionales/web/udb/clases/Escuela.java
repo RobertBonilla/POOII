@@ -15,6 +15,7 @@ public class Escuela {
     String nombre;
 
     public Escuela() {
+        
     }
 
     public Escuela(int id,  String nombre,int id_facultad) {
